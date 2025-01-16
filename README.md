@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tirthankarg
+- 👋 Hi, I’m @tirthankar1
 - 👀 I’m interested in frontend 
 - 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on tech
